@@ -77,7 +77,7 @@ tripconnect/
 
 # Como Rodar o Projeto
 Clone o repositório
-git clone <SEU_REPOSITORIO>
+git clone https://github.com/VitorFoppa/trip-connect
 cd tripconnect
 Backend
 Entrar na pasta
