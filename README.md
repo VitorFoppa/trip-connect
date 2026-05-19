@@ -54,6 +54,7 @@ Comentários
 Sistema de reviews
 
 # Estrutura do Projeto
+
 tripconnect/
 ├── backend/
 │   ├── app/
